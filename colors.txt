@@ -7,3 +7,5 @@ white
 black
 ###brown
 purple
+violet
+apricot
