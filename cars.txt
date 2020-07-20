@@ -3,11 +3,3 @@ mazda
 Honda
 BMW
 Jaguar
-Mercedes
-Audi
-Kia
-Tesla
-Hyundoi
-Nissan
-Lexes
-Ferrari
