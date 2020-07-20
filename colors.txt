@@ -7,5 +7,4 @@ white
 black
 ###brown
 purple
-gray
-
+violet
